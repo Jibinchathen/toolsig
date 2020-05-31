@@ -122,9 +122,8 @@ const main = async () => {
 console.log(chalk `{bold.green
   Ξ TITLE  : Instagram Private Tools x toolsig v2
   Ξ UPLOAD : c:/users/officialputuid/toolsig
-  Ξ CODEBY : Aldi Nugraha [Ccocot Ccocot]
+  Ξ CODEBY : CHATHEN
   Ξ UPDATE : officialputuid [07/01/2020]
-  Ξ FILES  : https://github.com/officialputuid/toolsig
   }`);
 console.log(chalk `{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
 console.log("  Ξ START  : ".bold.red + moment().format('D MMMM YYYY, h:mm:ss a'));
